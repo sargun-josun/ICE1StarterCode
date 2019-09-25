@@ -4,6 +4,7 @@ package cardgame;
 /**
  *
  * @author Sargun Josun
+   Student number: 991541997
  Date : 24th September 2019*/
 public class CardGame 
 {
