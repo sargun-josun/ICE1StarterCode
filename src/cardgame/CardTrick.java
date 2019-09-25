@@ -2,6 +2,7 @@ package cardgame;
 /**
  *
  * @author Sargun Josun
+    Student number: 991541997
  */
 import java.util.Scanner;
 public class CardTrick 
